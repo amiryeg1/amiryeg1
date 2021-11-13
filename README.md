@@ -11,6 +11,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amiryeg1&repo=javascript-calculator&theme=react&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # connect <img src="https://github.com/amiryeg1/amiryeg1/blob/main/connect.gif" width="25px">
-<a href="https://twitter.com/amir-yeg" target="blank"><img align="center" src="https://github.com/amiryeg1/amiryeg1/blob/main/twitter.png" alt="twitter" height="65" width="65" /></a>
+<a href="https://twitter.com/amir_yeg" target="blank"><img align="center" src="https://github.com/amiryeg1/amiryeg1/blob/main/twitter.png" alt="twitter" height="65" width="65" /></a>
 <a href="https://www.linkedin.com/in/amir-yeganeh" target="blank"><img align="center" src="https://github.com/amiryeg1/amiryeg1/blob/main/Linkedin.png" alt="linkedin" height="80" width="80"/></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=amiryeg2000@gmail.com" target="blank"><img align="center" src="https://github.com/amiryeg1/amiryeg1/blob/main/gmail2.png" alt="gmail" height="80" width="80" /></a>
