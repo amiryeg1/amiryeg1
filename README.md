@@ -1,6 +1,8 @@
 # hey there! <img src="https://github.com/amiryeg1/amiryeg1/blob/main/wave-hello.gif" width="35px">
 
-#### i'm Amir Yeganeh, a passionate self-taugh web developer with some exprience in node.js and currently learning react.
+#### i'm Amir Yeganeh, a passionate self-taugh web developer, focusing on the core web fundamentals - Html, Css, Javascript.
+#### i'm experinced in frontend web development using `React` and `Next.js`
+#### I also have a bit of knowlege in backend developement thanks to `Node.js`
 #### I love to explore new technologies and leverage them to solve real-life problems 
 # stats 📈
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amiryeg1&hide=contribs&show_icons=true&theme=react&count_private=true)
