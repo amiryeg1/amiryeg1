@@ -8,7 +8,7 @@
 ![Amirs's GitHub stats](https://github-readme-stats.vercel.app/api?username=amiryeg1&hide=contribs&show_icons=true&theme=react&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amiryeg1&theme=react&layout=compact)
 ## top repositories
-[![Readme Card]()
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amiryeg1&repo=nodejs-lessons&theme=react&show_owner=true)](https://github.com/amiryeg1/nodejs-lessons)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amiryeg1&repo=js-file-extractor&theme=react&show_owner=true)](https://github.com/amiryeg1/js-file-extractor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amiryeg1&repo=javascript-calculator&theme=react&show_owner=true)](https://github.com/amiryeg1/javascript-calculator)
 
