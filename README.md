@@ -5,10 +5,10 @@
 #### I also have a bit of knowledge in backend developement thanks to `Node.js`
 #### I love to explore new technologies and leverage them to solve real-life problems
 # stats 📈
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amiryeg1&hide=contribs&show_icons=true&theme=react&count_private=true)
+![Amirs's GitHub stats](https://github-readme-stats.vercel.app/api?username=amiryeg1&hide=contribs&show_icons=true&theme=react&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amiryeg1&theme=react&layout=compact)
 ## top repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amiryeg1&repo=nodejs-lessons&theme=react&show_owner=true)](https://github.com/amiryeg1/nodejs-lessons)
+[![Readme Card]()
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amiryeg1&repo=js-file-extractor&theme=react&show_owner=true)](https://github.com/amiryeg1/js-file-extractor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amiryeg1&repo=javascript-calculator&theme=react&show_owner=true)](https://github.com/amiryeg1/javascript-calculator)
 
