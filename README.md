@@ -18,6 +18,7 @@
 [![Readme Card](https://github-readme-stats-amiryeg1.vercel.app/api/pin/?username=amiryeg1&repo=nodejs-lessons&theme=react&show_owner=true)](https://github.com/amiryeg1/nodejs-lessons)
 [![Readme Card](https://github-readme-stats-amiryeg1.vercel.app/api/pin/?username=amiryeg1&repo=js-file-extractor&theme=react&show_owner=true)](https://github.com/amiryeg1/js-file-extractor)
 [![Readme Card](https://github-readme-stats-amiryeg1.vercel.app/api/pin/?username=amiryeg1&repo=javascript-calculator&theme=react&show_owner=true)](https://github.com/amiryeg1/javascript-calculator)
+[![Readme Card](https://github-readme-stats-amiryeg1.vercel.app/api/pin/?username=amiryeg1&repo=language-design&theme=react&show_owner=true)](https://github.com/amiryeg1/language-design)
 
 # skills
 
